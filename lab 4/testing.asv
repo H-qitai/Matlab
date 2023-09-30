@@ -1,0 +1,11 @@
+function [input] = testing(dots)
+
+disp(dots)
+input = 1;
+
+% input = [];
+% s = [];
+% 
+% s(end + 1) = dots(1);
+% 
+% disp(s)

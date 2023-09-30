@@ -1,0 +1,5 @@
+% clear, clc
+% s = SmoothSignalPass([4 1 12 3 8]);
+
+clear, clc
+s = testing([4 1 12 3 8]);
